@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\RUI-Assets\Scripts\character\Character.cs">
+    <Files>
+      <File FileName="Assets\Apex5\Scripts\Turret\ProjectileScript.cs" Line="10" Column="2" />
+      <File FileName="Assets\Apex5\Scripts\Weapons\Useable\Pistol.cs" Line="95" Column="27" />
+      <File FileName="Assets\Apex5\Scripts\Weapons\Gun.cs" Line="3" Column="1" />
+      <File FileName="Assets\RUI-Assets\Scripts\character\Character.cs" Line="92" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
